@@ -2,9 +2,10 @@
 - simple and small cat clon with less than 100 loC
 - originalLy written in 24h
 
-## Features
-- [x] view files
-- [ ] write to files
+## Goals
+- [x] view one file
+- [ ] view more files
+- [ ] Posix Compatabity
 
 ## Usage
 `$ scat <file>` to view a file
