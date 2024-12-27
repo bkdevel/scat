@@ -1,9 +1,11 @@
 # scat
 a simple and small cat clon with less than 100 loC.
 
-## Usage
+## Features
 - [x] view files
 - [ ] write to files
+
+## Usage
 `$ scat <file>` to view a file
 
 ## Building & installing
