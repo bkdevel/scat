@@ -1,6 +1,6 @@
 # scat
 - simple and small cat clon with less than 100 loC
-- originalLy written in 24h
+- originalLy written in 1h
 
 ## Goals
 - [x] view one file
