@@ -1,3 +1,4 @@
+> **Note: i currently work on rewriting this in assembly**
 # scat
 - simple and small cat clon with less than 100 loC
 - originalLy written in 1h
