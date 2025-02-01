@@ -11,6 +11,7 @@
 `$ scat <file>` to view a file
 
 ## Building & installing
+NOTE: you can skip the building & cloning part if you download the binary from here: .
 ### 1. Clone into repository 
 `$ git clone https://github.com/bkdevel/scat.git`
 ### 2. Build repository 
