@@ -4,7 +4,7 @@
 
 ## Goals
 - [x] view one file
-- [ ] view more files
+- [x] view more files
 - [ ] Posix Compatabity
 
 ## Usage
