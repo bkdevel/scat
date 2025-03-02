@@ -1,11 +1,11 @@
 # scat
 - simple and small cat clon with less than 100 loC
-- originalLy written in 1h
+- originalLy written in a few minutes
 
 ## Goals
 - [x] view one file
 - [x] view more files
-- [ ] Posix Compatabity
+- [ ] Posix Compliance
 
 ## Usage
 `$ scat <file>` to view a file
@@ -22,5 +22,3 @@ If the binary does not work, try building it yourself.
 ### 3. Install it
 - move ./scat to /usr/local/bin/scat
 `# mv ./scat /usr/local/bin/scat`
-### 4. Finnished
-- you are now finnshed
