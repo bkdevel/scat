@@ -11,7 +11,7 @@
 `$ scat <file>` to view a file
 
 ## Building & installing
-NOTE: you can skip the building & cloning part if you download the binary from <a href=https://github.com/bkdevel/scat/releases/download/pre-0.1/scat>here</a>.
+NOTE: you can skip the building & cloning part if you download the binary from <a href=https://github.com/bkdevel/scat/releases/download/pre-0.1/scat>here</a>. (The binary was built on Linux openSUSE Tumbelweed, and has not been tested anywhere else)
 If the binary does not work, try building it yourself.
 ### 1. Clone into repository 
 `$ git clone https://github.com/bkdevel/scat.git`
